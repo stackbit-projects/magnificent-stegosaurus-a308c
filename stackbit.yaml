@@ -48,7 +48,7 @@ models:
         required: false
   item_task:
     type: object
-    label: Pink Section
+    label: Task
     fields:
       - type: string
         name: task
