@@ -9,7 +9,7 @@ models:
     type: page
     label: Advanced Page
     folder: advanced
-    filePath: pages/advanced/{slug}.md
+    filePath: advanced/{slug}.md
     urlPath: /{slug}
     fields:
       - type: list
